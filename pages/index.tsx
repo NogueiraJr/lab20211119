@@ -4,8 +4,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Button variant="contained" color="primary">
-      Hello World
-    </Button>
+        Hello World
+      </Button>
     </div>
   );
 };
